@@ -13,3 +13,6 @@ Before using this Terraform configuration, ensure you have the following prerequ
 - [Terraform](https://www.terraform.io/downloads.html) installed on your local machine.
 - AWS credentials configured either via environment variables or AWS CLI.
 - Basic understanding of Terraform and AWS services.
+
+## Diagram
+![IaC AWS Full Infrastructure](https://github.com/nessamutia/Infrastructure-on-AWS-with-Terraform/assets/137209546/dd5453d9-86c5-4a84-84a4-e9f309e93978)
